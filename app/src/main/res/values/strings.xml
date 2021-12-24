@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">e-form Mahasiswa</string>
+    <string-array name="programStudi">
+        <item>Teknologi Informasi</item>
+        <item>Teknik Arsitektur</item>
+        <item>Teknik Sipil</item>
+        <item>Teknik Elektro</item>
+        <item>Teknik Mesin</item>
+        <item>Teknik Industri</item>
+        <item>Teknik Lingkungan</item>
+    </string-array>
+</resources>
